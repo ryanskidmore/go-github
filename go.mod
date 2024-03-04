@@ -1,4 +1,4 @@
-module github.com/ryanskidmore/go-github/v60
+module github.com/ryanskidmore/go-github
 
 require (
 	github.com/google/go-cmp v0.6.0

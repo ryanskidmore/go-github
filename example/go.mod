@@ -1,4 +1,4 @@
-module github.com/google/go-github/v60/example
+module github.com/ryanskidmore/go-github/example
 
 go 1.21
 
@@ -24,4 +24,4 @@ require (
 )
 
 // Use version at HEAD, not the latest published.
-replace github.com/google/go-github/v60 => ../
+replace github.com/ryanskidmore/go-github => ../
